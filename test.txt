@@ -1,0 +1,23 @@
+[
+  {Bardo 
+  {Poderes {
+    nome :Poder de Bardo,
+    Descricao: No 2º nível, e a cada nível
+seguinte, você recebe um poder de bardo a sua escolha.
+ },
+ nome :EclétiCo,
+ Descricao: A partir do 2º nível, você pode gastar
+1 PM para receber todos os benefícios de ser treinado
+em uma perícia por um teste.
+nome: ArtistA Completo.,
+Descricao: No 20º nível, você
+pode usar Inspiração como uma ação livre. Enquanto
+estiver sob efeito de sua Inspiração, suas
+habilidades de bardo (incluindo magias) têm seu
+custo em PM reduzido pela metade (após aplicar
+aprimoramentos e quaisquer outros efeitos que
+reduzam custo).}
+  ,{Magias}
+  },
+  {Caçador},{Clérigo},{Druida},{Ladino},{Mago},{Nobre}
+]
